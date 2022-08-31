@@ -1,6 +1,6 @@
 <p align="center"> <img width="400" height="300" src="https://s6.gifyu.com/images/programing.gif"> </p>
 
-# <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Hi.gif" width="29px"> Hola! Bienvenido a mi perfil <img src="https://img.shields.io/github/followers/XDeadHackerX?style=social"> <img align="right" src="https://komarev.com/ghpvc/?username=XDeadHackerX&style=flat-square&color=blue">
+# <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Hi.gif" width="29px"> Hola! Bienvenido a mi perfil <img src="https://img.shields.io/github/followers/XDeadHackerX?style=social"> <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/XDeadHackerX/XDeadHackerX?style=social">
 
 Soy **XDeadHackerX** y soy un amante de las telecomunicaciones y de la ciberseguridad, en mis tiempos libres me gusta desarrollar herramientas que automatizan procesos y programas y así facilitarme el trabajo a mí y a los Pentesters de Sombrero Blanco. Mi objetivo con este Perfil es crear Herramientas que perduren en el tiempo y aportar a la comunidad lo que la Comunidad me aportó y me aporta diariamente. 
 
