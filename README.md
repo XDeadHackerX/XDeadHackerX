@@ -1,4 +1,4 @@
-<img align="center" src=https://s6.gifyu.com/images/programing.gif width="50%"/>
+<p align="center"> <img width="400" height="300" src="https://s6.gifyu.com/images/programing.gif"> </p>
 
 # <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Hi.gif" width="29px"> Hola! Bienvenido a mi perfil <img align="right" src="https://komarev.com/ghpvc/?username=XDeadHackerX&style=flat-square&color=blue">
 
