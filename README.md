@@ -2,14 +2,14 @@
 
 # 🖖 Hola! Bienvenido a mi perfil <img align="right" src="https://komarev.com/ghpvc/?username=XDeadHackerX&style=flat-square&color=blue">
 
-Soy **XDeadHackerX** y soy un amante de las telecomunicaciones y la ciberseguridad, en mis tiempos libres me gusta desarrollar herramientas que automatizan procesos y otras herramientas y así facilitarme el trabajo a mí y a los Pentesters de Sombrero Blanco. Mi objetivo con este Perfil es crear Herramientas que perduren en el tiempo y aportar a la comunidad lo que la Comunidad me aporto a mí en mis comienzos.
+Soy **XDeadHackerX** y soy un amante de las telecomunicaciones y de la ciberseguridad, en mis tiempos libres me gusta desarrollar herramientas que automatizan procesos y programas y así facilitarme el trabajo a mí y a los Pentesters de Sombrero Blanco. Mi objetivo con este Perfil es crear Herramientas que perduren en el tiempo y aportar a la comunidad lo que la Comunidad me aportó y me aporta diariamente.
 
 ## 👨🏻‍💻 Sobre mi
 
 - 🌎 España
 - 🤠 WhiteHat
 - 👨🏻‍💻 Telecomunicaciones, Ciberseguridad, OSINT, Desarrolar
-- 📧 Contacta conmigo : [@XDeadHackerX](xXDeadHackerXx@protonmail.com)
+- 📧 Contacta conmigo : [XDeadHackerX](mailto:xXDeadHackerXx@protonmail.com)
 ## 🌟 Github stats
 
 <p align="center">
