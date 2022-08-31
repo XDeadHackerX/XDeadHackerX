@@ -1,6 +1,6 @@
 <img src=https://s6.gifyu.com/images/mr_robot_gift.gif width="100%"/>
 
-# 🖖 Hola! Bienvenido a mi perfil <img align="right" src="https://komarev.com/ghpvc/?username=XDeadHackerX&style=flat-square&color=blue">
+# 🖖 Hola! Bienvenido a mi perfil <img align="right" 
 
 Soy **XDeadHackerX** y soy un amante de las telecomunicaciones y de la ciberseguridad, en mis tiempos libres me gusta desarrollar herramientas que automatizan procesos y programas y así facilitarme el trabajo a mí y a los Pentesters de Sombrero Blanco. Mi objetivo con este Perfil es crear Herramientas que perduren en el tiempo y aportar a la comunidad lo que la Comunidad me aportó y me aporta diariamente.
 
