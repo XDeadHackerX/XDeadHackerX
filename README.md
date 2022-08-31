@@ -6,7 +6,7 @@ Soy **XDeadHackerX** y soy un amante de las telecomunicaciones y de la cibersegu
 
 ## 👨🏻‍💻 Sobre mi
 
-<img align="right" src=https://s6.gifyu.com/images/mr_robot_gift.gif width="25%"/>
+<img align="right" src=https://s6.gifyu.com/images/wifi.gif width="15%"/>
 
 - 🌎 España
 - 🤠 WhiteHat
