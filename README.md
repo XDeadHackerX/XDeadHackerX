@@ -1,4 +1,4 @@
-<p align="center"> <img width="400" height="300" src="https://s6.gifyu.com/images/programing.gif"> </p>
+<p align="center"> <img width="220px" src="https://s6.gifyu.com/images/programing.gif"> </p>
 
 # <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Hi.gif" width="29px"> Hola! Bienvenido a mi perfil 
 
