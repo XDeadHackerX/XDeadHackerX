@@ -4,8 +4,6 @@
 
 Soy **XDeadHackerX,** un apasionado de las telecomunicaciones y la ciberseguridad. En mi tiempo libre, me dedico al desarrollo de herramientas que automatizan procesos y programas con el propósito de mejorar la eficiencia tanto en mi trabajo personal como en el de los Pentesters de Sombrero Blanco. Mi objetivo con este perfil es crear soluciones que perduren en el tiempo y contribuir a la comunidad de la misma manera en la que esta me ha brindado su apoyo y conocimiento de manera constante.  <p align="center"> <img src="https://img.shields.io/github/followers/XDeadHackerX?style=social"> <img src="https://komarev.com/ghpvc/?username=XDeadHackerX&style=flat-square&color=blue"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/XDeadHackerX?style=social">
 
-<p align="center"> <img width="350px" src="https://i.postimg.cc/258grZf5/world1.webp"> </p>
-
 ## 👨🏻‍💻 Sobre mi
 
 <img align="right" src=https://s6.gifyu.com/images/wifi.gif width="15%"/>
@@ -14,6 +12,9 @@ Soy **XDeadHackerX,** un apasionado de las telecomunicaciones y la cibersegurida
 - 🤠 WhiteHat
 - 👨🏻‍💻 Telecomunicaciones, Networking, Ciberseguridad, OSINT, Programming
 - 📧 Contacta conmigo : [XDeadHackerX](mailto:xXDeadHackerXx@protonmail.com)
+
+<p align="center"> <img width="250px" src="https://s11.gifyu.com/images/ScdxT.gif"> </p>
+
 ## 🌟 Github Stats 
 
 <p align="center">
