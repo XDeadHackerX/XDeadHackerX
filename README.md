@@ -12,7 +12,7 @@ Soy **XDeadHackerX,** un apasionado de las telecomunicaciones y la cibersegurida
 
 - 🌎 España
 - 🤠 WhiteHat
-- 👨🏻‍💻 Telecomunicaciones, Networking, Ciberseguridad, OSINT, Programmer
+- 👨🏻‍💻 Telecomunicaciones, Networking, Ciberseguridad, OSINT, Programming
 - 📧 Contacta conmigo : [XDeadHackerX](mailto:xXDeadHackerXx@protonmail.com)
 ## 🌟 Github Stats 
 
