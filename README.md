@@ -13,7 +13,7 @@
 - 🤠 WhiteHat
 - 👨🏻‍💻 Telecomunicaciones, Networking, Ciberseguridad, OSINT, Programming
 - 📧 Contacta conmigo : [XDeadHackerX](mailto:xXDeadHackerXx@protonmail.com)
-
+- 🔗 Perfiles: 
 <p align="center">
 <a href="https://asciinema.org/~XDeadHackerX">
 <img src="https://img.shields.io/badge/asciinema-D40000?logo=asciinema&logoColor=fff&style=plastic" alt="Texto alternativo de la imagen" />
