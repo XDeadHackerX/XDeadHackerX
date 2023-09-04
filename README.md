@@ -36,7 +36,7 @@
 
 ## 🏆 Trofeos GitHub
 
-https://github-profile-trophy.vercel.app/?username=XDeadHackerX&theme=algolia
+![](https://github-profile-trophy.vercel.app/?username=XDeadHackerX&theme=algolia)
 
 ## 🌟 Estadísticas Github
 
