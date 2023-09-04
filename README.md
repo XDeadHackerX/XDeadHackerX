@@ -36,7 +36,7 @@
 
 ## 🏆 Trofeos GitHub
 
-<p align="center"> <img alig src="https://github-profile-trophy.vercel.app/?username=XDeadHackerX&theme=algolia&column=7&rank=SSS,SS,S,AAA,AA,A,B,C"> </p>
+![](https://github-profile-trophy.vercel.app/?username=XDeadHackerX&theme=algolia&column=7&rank=SSS,SS,S,AAA,AA,A,B,C)
 
 ## 🌟 Estadísticas Github
 
